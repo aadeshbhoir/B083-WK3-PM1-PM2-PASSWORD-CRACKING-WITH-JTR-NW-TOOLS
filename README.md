@@ -173,13 +173,6 @@ The project follows the following general workflow:
 
 
 
-👤 Author
-
-Aadesh Bhoir
-
-Cybersecurity Intern at NETWORKWALKS
-
-
 
 🗂️ Project Information
 
